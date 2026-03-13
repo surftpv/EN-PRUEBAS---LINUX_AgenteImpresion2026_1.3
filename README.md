@@ -7,7 +7,9 @@ Instalación completada con éxito!
 ========================================
 
 📁 Directorio de instalación: /opt/print-agent
+
 ⚙️  Archivo de configuración:  /opt/print-agent/config/config.json
+
 📋 Logs del servicio:         journalctl -u print-agent -f
 
 Próximos pasos:
