@@ -1,7 +1,33 @@
 # LINUX_AgenteImpresion2026_1.3
 
+Instalar como sudo ./install.sh (darle permisos Ejecutable como un programa)
+
+AL FINALIZAR:
+Instalación completada con éxito!     
+========================================
+
+📁 Directorio de instalación: /opt/print-agent
+⚙️  Archivo de configuración:  /opt/print-agent/config/config.json
+📋 Logs del servicio:         journalctl -u print-agent -f
+
+Próximos pasos:
+  1. Edita la configuración:
+     sudo nano /opt/print-agent/config/config.json
+
+  2. Inicia el servicio:
+     sudo systemctl start print-agent
+
+  3. Verifica el estado:
+     sudo systemctl status print-agent
+
+  4. Ver logs en tiempo real:
+     sudo journalctl -u print-agent -f
+
+
 
 Para el cajón:
+Copiar el archivo cajon.py en carpeta accesible
+
 En Ubuntu
 1. Ir a:    Ajustes -> Teclado -> Atajo personalizado
    
