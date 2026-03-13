@@ -27,6 +27,7 @@ Próximos pasos:
 
 
 
+-------------------------------------------------------------
 Para el cajón:
 Copiar el archivo cajon.py en carpeta accesible
 
