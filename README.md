@@ -29,14 +29,20 @@ Próximos pasos:
 
 -------------------------------------------------------------
 Para el cajón:
+Editar "cajon.py", añadir la ip de la impresora tickets venta -> abrir_cajon("192.168.1.24")
+
 Copiar el archivo "cajon.py" en carpeta: /opt/print-agent/
 
 En Ubuntu
 1. Ir a:    Ajustes -> Teclado -> Atajos del teclado -> Ver y personalizar atajos: Atajo personalizado
+
    
 3. Rellenar con los siguientes datos:
    
-    Nombre:  Abrir Cajón
-    Comando: python3 /opt/print-agent/cajon.py  (o la ruta donde se encuentre el archivo cajon.py una vez se haya configurado con la ip de la impresora conectada al cajón)
-    Atajo: F3
+   Nombre:  Abrir Cajón
+
+   Comando: python3 /opt/print-agent/cajon.py
+   (o la ruta donde se encuentre el archivo cajon.py)
+
+   Atajo: F3
 
