@@ -1,4 +1,4 @@
-# LINUX_AgenteImpresion2026_1.3
+# LINUX_AgenteImpresion2026-Cajon_v1.3
 
 Instalar como sudo ./install.sh (darle permisos Ejecutable como un programa)
 
