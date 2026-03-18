@@ -25,9 +25,7 @@ Próximos pasos:
   4. Ver logs en tiempo real:
      sudo journalctl -u print-agent -f
 
-REINICIAR SERVICIO: sudo service print-agent restart
 
-Estado:  sudo service print-agent status
 
 -------------------------------------------------------------
 Para el cajón:
