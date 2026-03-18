@@ -32,6 +32,7 @@ Para el cajón:
 Editar "cajon.py", añadir la ip de la impresora tickets venta -> abrir_cajon("ip impresora")
 
 Copiar el archivo "cajon.py" en carpeta: /opt/
+
 dar permisos "usuario" y (activar Ejecutable como un programa)
 
 En Ubuntu
