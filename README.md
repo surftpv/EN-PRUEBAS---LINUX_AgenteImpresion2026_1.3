@@ -29,9 +29,9 @@ Próximos pasos:
 
 -------------------------------------------------------------
 Para el cajón:
-Editar "cajon.py", añadir la ip de la impresora tickets venta -> abrir_cajon("192.168.1.24")
+Editar "cajon.py", añadir la ip de la impresora tickets venta -> abrir_cajon("ip impresora")
 
-Copiar el archivo "cajon.py" en carpeta: /opt/print-agent/
+Copiar el archivo "cajon.py" en carpeta: /opt/
 dar permisos "usuario" y (activar Ejecutable como un programa)
 
 En Ubuntu
@@ -42,7 +42,7 @@ En Ubuntu
    
    Nombre:  Abrir Cajón
 
-   Comando: python3 /opt/print-agent/cajon.py
+   Comando: python3 /opt/cajon.py
    (o la ruta donde se encuentre el archivo cajon.py)
 
    Atajo: F3
