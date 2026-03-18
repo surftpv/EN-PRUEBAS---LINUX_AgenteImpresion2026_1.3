@@ -1,6 +1,6 @@
 # LINUX_AgenteImpresion2026-Cajon_v1.3
 
-Instalar como sudo ./install.sh (darle permisos Ejecutable como un programa)
+Instalar como sudo ./install.sh (activar Ejecutable como un programa)
 
 AL FINALIZAR:
 Instalación completada con éxito!     
@@ -32,6 +32,7 @@ Para el cajón:
 Editar "cajon.py", añadir la ip de la impresora tickets venta -> abrir_cajon("192.168.1.24")
 
 Copiar el archivo "cajon.py" en carpeta: /opt/print-agent/
+dar permisos "usuario" y (activar Ejecutable como un programa)
 
 En Ubuntu
 1. Ir a:    Ajustes -> Teclado -> Atajos del teclado -> Ver y personalizar atajos: Atajo personalizado
